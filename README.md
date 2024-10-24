@@ -1,3 +1,1 @@
-# alx-files_manager
-#This project is about file management
-#This is given bt Alx
+# A project on Authentication, NodeJS, MongoDB, Redis, Pagination and Background Processing.
